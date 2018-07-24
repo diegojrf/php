@@ -2,6 +2,6 @@
 
 	echo "Ai sabe!!! Com conflito";
 
-	echo "Incluindo isso...";
+	echo "Inclu";
 
 ?>
