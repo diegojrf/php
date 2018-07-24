@@ -1,6 +1,6 @@
 <?php
 
-	echo "Ai sabe!!!";
+	echo "Ai sabe!!! Com conflito";
 
 	echo "Incluindo isso...";
 
