@@ -1,7 +1,7 @@
 <?php
 
-	echo "Ai sabe!!!";
+	echo "Ai sabe!!!qqqqqqq";
 
-	echo "Inclu";
+	echo "Inclui";
 
 ?>
